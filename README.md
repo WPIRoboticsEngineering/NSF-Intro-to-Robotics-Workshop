@@ -1,5 +1,7 @@
 # NSF-Intro-to-Robotics-Workshop
 
-A placeholder for the NSF Workshop on Unified Curriculum and Course Design for Mechatronics and Robotics Engineering
+Welcome to the NSF Workshop on Unified Curriculum and Course Design for Mechatronics and Robotics Engineering
 
-Code libraries, activities, and other resources will be published here soon!
+Code libraries, activities, and other resources will be published/linked here.
+
+Build instructions (and a Bill of Materials) are up! Check under activities/build instructions/
