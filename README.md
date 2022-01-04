@@ -1,6 +1,6 @@
-# NSF-Intro-to-Robotics-Workshop
+# FOMRE NSF Workshop
 
-Welcome to the NSF Workshop on Unified Curriculum and Course Design for Mechatronics and Robotics Engineering
+Welcome to the FOMRE NSF Workshop on Unified Curriculum and Course Design for Mechatronics and Robotics Engineering
 
 Code libraries, activities, and other resources will be published/linked here.
 
