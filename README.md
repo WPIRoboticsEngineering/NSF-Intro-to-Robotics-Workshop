@@ -1,4 +1,4 @@
-# FOMRE NSF Workshop
+# FoMRE NSF Workshop
 
 Welcome to the FOMRE NSF Workshop on Unified Curriculum and Course Design for Mechatronics and Robotics Engineering
 
